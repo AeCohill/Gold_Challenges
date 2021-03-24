@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\GOLD_CHALLENGES\Gold_Challenge1_console\Gold_Challenge1_console\obj\Debug\Challenges01_console.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GOLD_CHALLENGES\Gold_Challenge1_console\Gold_Challenge1_console\obj\Debug\Challenges01_console.csproj.CoreCompileInputs.cache

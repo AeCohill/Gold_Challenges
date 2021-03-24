@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\GOLD_CHALLENGES\Gold_Challenge1\CHALLENGES01_Classes\bin\Debug\CHALLENGES01_Classes.dll
+C:\ElevenFiftyProjects\GOLD_CHALLENGES\Gold_Challenge1\CHALLENGES01_Classes\bin\Debug\CHALLENGES01_Classes.pdb
+C:\ElevenFiftyProjects\GOLD_CHALLENGES\Gold_Challenge1\CHALLENGES01_Classes\obj\Debug\CHALLENGES01_Classes.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\GOLD_CHALLENGES\Gold_Challenge1\CHALLENGES01_Classes\obj\Debug\CHALLENGES01_Classes.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GOLD_CHALLENGES\Gold_Challenge1\CHALLENGES01_Classes\obj\Debug\CHALLENGES01_Classes.dll
+C:\ElevenFiftyProjects\GOLD_CHALLENGES\Gold_Challenge1\CHALLENGES01_Classes\obj\Debug\CHALLENGES01_Classes.pdb
